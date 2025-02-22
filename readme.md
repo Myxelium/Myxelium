@@ -2,4 +2,4 @@ See my other repos in my organization below. I created it so I can use my own CI
 
 
 <hr>
-![Lunaris](https://github.com/Myxelium/Myxelium/blob/master/LunarisEnt.jpg?raw=true)
+![Lunaris](https://github.com/Myxelium/Myxelium/blob/master/LunarisEnt.png?raw=true)
